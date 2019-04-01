@@ -1,0 +1,4 @@
+When we introduce a probabilty to a action, we actually loose significant amount of information.
+The agent might take more actions to reach the final state. Which may imply a longer path.
+
+The effect of probabilty will show as, if we increase the probabilty of correct action, the path may get closer to the shortest path and reverse when it is lower
